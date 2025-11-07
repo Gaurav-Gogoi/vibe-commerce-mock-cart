@@ -50,12 +50,12 @@ Runs on http://localhost:3000
 ## Demo / Screenshots
 
 ### 1. Products Grid
-![Products Grid](assets/products.png)
+![Products Grid](vibecommerce/assets/products.png)
 
 ### 2. Cart View
-![Cart View](assets/Cart.png)
+![Cart View](vibecommerce/assets/cart.png)
 
 ### 3. Checkout
-![Checkout](assets/checkout.png)
+![Checkout](vibecommerce/assets/checkout.png)
 
 **Video Demo:** [Click here]()
