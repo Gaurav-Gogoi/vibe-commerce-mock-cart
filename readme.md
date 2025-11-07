@@ -48,14 +48,13 @@ npm run dev
 Runs on http://localhost:3000
 
 ## Demo / Screenshots
-
 ### 1. Products Grid
-![Products Grid](assets/products.png)
+![Products Grid](https://raw.githubusercontent.com/Gaurav-Gogoi/vibe-commerce-mock-cart/main/assets/products.png)
 
 ### 2. Cart View
-![Cart View](assets/cart.png)
+![Cart View](https://raw.githubusercontent.com/Gaurav-Gogoi/vibe-commerce-mock-cart/main/assets/cart.png)
 
 ### 3. Checkout
-![Checkout](assets/checkout.png)
+![Checkout](https://raw.githubusercontent.com/Gaurav-Gogoi/vibe-commerce-mock-cart/main/assets/checkout.png)
 
-**Video Demo:** [Click here]()
+**Video Demo:** [Click here](YOUR_VIDEO_LINK)
