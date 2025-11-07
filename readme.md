@@ -50,12 +50,13 @@ Runs on http://localhost:3000
 ## Demo / Screenshots
 ### 1. Products Grid
 ## 1. Products Grid
-![Products Grid](./assets/products.png) 
+![Products Grid](.src/assets/products.png) 
 
 ## 2. Cart View
-![Cart View](./assets/cart.png) 
+![Cart View](.src/assets/cart.png) 
 
 ## 3. Checkout
-![Checkout](./assets/checkout.png)
+![Checkout](.src/assets/checkout.png)
 
-# video url demo = https://youtu.be/KyZfxukBumQ
+# video url demo 
+https://youtu.be/KyZfxukBumQ
