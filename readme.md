@@ -49,12 +49,11 @@ Runs on http://localhost:3000
 
 ## Demo / Screenshots
 ### 1. Products Grid
-![Products Grid](https://raw.githubusercontent.com/Gaurav-Gogoi/vibe-commerce-mock-cart/main/assets/products.png)
+## 1. Products Grid
+![Products Grid](./assets/products.png) 
 
-### 2. Cart View
-![Cart View](https://raw.githubusercontent.com/Gaurav-Gogoi/vibe-commerce-mock-cart/main/assets/cart.png)
+## 2. Cart View
+![Cart View](./assets/cart.png) 
 
-### 3. Checkout
-![Checkout](https://raw.githubusercontent.com/Gaurav-Gogoi/vibe-commerce-mock-cart/main/assets/checkout.png)
-
-**Video Demo:** [Click here](YOUR_VIDEO_LINK)
+## 3. Checkout
+![Checkout](./assets/checkout.png)
