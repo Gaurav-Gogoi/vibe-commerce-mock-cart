@@ -50,13 +50,13 @@ Runs on http://localhost:3000
 ## Demo / Screenshots
 ### 1. Products Grid
 ## 1. Products Grid
-![Products Grid](.src/assets/products.png) 
+![Products Grid](./frontend/vite-project/src/assets/products.png) 
 
 ## 2. Cart View
-![Cart View](.src/assets/cart.png) 
+![Cart View](./frontend/vite-project/src/assets/cart.png) 
 
 ## 3. Checkout
-![Checkout](.src/assets/checkout.png)
+![Checkout](./frontend/vite-project/src/assets/checkout.png)
 
 # video url demo 
 https://youtu.be/KyZfxukBumQ
