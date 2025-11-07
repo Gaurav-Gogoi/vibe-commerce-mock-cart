@@ -57,3 +57,5 @@ Runs on http://localhost:3000
 
 ## 3. Checkout
 ![Checkout](./assets/checkout.png)
+
+# video url demo = https://youtu.be/KyZfxukBumQ
